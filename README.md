@@ -1,6 +1,3 @@
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Smrutiranjan936.Smrutiranjan936" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone....+👋;+I'm+Smrutiranjan936!;" />
 </h1>
@@ -12,9 +9,14 @@
 <div align="center">
  
  🔭 I’m currently **Pursing MCA**
- 💬
+  
  🌱 I’m currently learning **About A.I. and Machine Learning**
-👬🤝
+ 
+👬  I'm looking to Collaborate **On projects**
+
+🤝  I'm looking For help 
+
+💬  Ask me about **on my gmail**
  </div>
  
 <div align="center"> 
