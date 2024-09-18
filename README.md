@@ -1,6 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone....+👋;+I'm+Smrutiranjan936!;" />
 </h1>
+<IMG align="right" alt="coding" width="400" src="https://plus.unsplash.com/premium_vector-1726439684413-b629680cf21f?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+
 
 <h3 align="center">A passionate Web developer from India </h3>
 
