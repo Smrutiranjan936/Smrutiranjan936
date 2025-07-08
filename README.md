@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently **Pursing MCA**
+ 🔭 I’m currently **Complit my MCA**
   
  🌱 I’m currently learning **About A.I. and Machine Learning**
  
